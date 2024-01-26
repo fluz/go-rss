@@ -28,3 +28,6 @@ go-rss
 
 # env file
 .env
+
+# thunderclient requests
+thunder-tests/
